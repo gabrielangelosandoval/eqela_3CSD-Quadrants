@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Quadrant
+#
+
+projectname: Quadrant
+vendorid: com.sandoval
+mainmodule: com.sandoval.quadrant
